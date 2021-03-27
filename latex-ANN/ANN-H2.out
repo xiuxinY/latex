@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Experiments of equilibrium isotherms}{}% 2
+\BOOKMARK [1][-]{section.3}{Detailed Model of PSA process}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Mathematical model}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Process description}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Strategy and results of sampling}{}% 6
+\BOOKMARK [1][-]{section.5}{ANN-based surrogate models: training and validation}{}% 7
+\BOOKMARK [1][-]{section.6}{Process optimization using ANN-based surrogate models}{}% 8
+\BOOKMARK [2][-]{subsection.6.1}{Dual-objective optimization}{section.6}% 9
+\BOOKMARK [2][-]{subsection.6.2}{Tri-objective optimization}{section.6}% 10
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 11
+\BOOKMARK [1][-]{section.8}{Acknowledgments}{}% 12

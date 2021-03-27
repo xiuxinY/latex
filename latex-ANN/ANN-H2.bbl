@@ -1,0 +1,359 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{RN1}
+I.~E. Agency, Prospects for CO2 Capture and Storage, 2004.
+\newblock \href {https://doi.org/doi:https://doi.org/10.1787/9789264108820-en}
+  {\path{doi:doi:https://doi.org/10.1787/9789264108820-en}}.
+
+\bibitem{RN2}
+J.~D. Scheelhaase, How to regulate aviation's full climate impact as intended
+  by the eu council from 2020 onwards, Journal of Air Transport Management 75
+  (2019) 68--74.
+\newblock \href {https://doi.org/10.1016/j.jairtraman.2018.11.007}
+  {\path{doi:10.1016/j.jairtraman.2018.11.007}}.
+
+\bibitem{RN3}
+H.~Yan, Q.~Fu, Y.~Zhou, D.~Li, D.~Zhang, Co2 capture from dry flue gas by
+  pressure vacuum swing adsorption: a systematic simulation and optimization,
+  International Journal of Greenhouse Gas Control 51 (2016) 1--10.
+
+\bibitem{RN4}
+Y.~Shen, W.~Shi, D.~Zhang, P.~Na, B.~Fu, The removal and capture of co2 from
+  biogas by vacuum pressure swing process using silica gel, Journal of CO2
+  Utilization 27 (2018) 259--271.
+\newblock \href {https://doi.org/10.1016/j.jcou.2018.08.001}
+  {\path{doi:10.1016/j.jcou.2018.08.001}}.
+
+\bibitem{RN5}
+I.~Hanif, S.~M.~F. Raza, P.~Gago-de Santos, Q.~Abbas, Fossil fuels, foreign
+  direct investment, and economic growth have triggered co2 emissions in
+  emerging asian economies: Some empirical evidence, Energy 171 (2019)
+  493--501.
+\newblock \href {https://doi.org/10.1016/j.energy.2019.01.011}
+  {\path{doi:10.1016/j.energy.2019.01.011}}.
+
+\bibitem{RN6}
+W.~Shi, H.~Yang, Y.~Shen, Q.~Fu, D.~Zhang, B.~Fu, Two-stage psa/vsa to produce
+  h2 with co2 capture via steam methane reforming (smr), International Journal
+  of Hydrogen Energy 43~(41) (2018) 19057--19074.
+\newblock \href {https://doi.org/10.1016/j.ijhydene.2018.08.077}
+  {\path{doi:10.1016/j.ijhydene.2018.08.077}}.
+
+\bibitem{RN7}
+N.~D. Vo, D.~H. Oh, S.-H. Hong, M.~Oh, C.-H. Lee, Combined approach using
+  mathematical modelling and artificial neural network for chemical industries:
+  Steam methane reformer, Applied Energy 255 (2019).
+\newblock \href {https://doi.org/10.1016/j.apenergy.2019.113809}
+  {\path{doi:10.1016/j.apenergy.2019.113809}}.
+
+\bibitem{RN8}
+M.~Yanez, F.~Relvas, A.~Ortiz, D.~Gorri, A.~Mendes, I.~Ortiz, Psa purification
+  of waste hydrogen from ammonia plants to fuel cell grade, Separation and
+  Purification Technology 240 (2020) 14.
+\newblock \href {https://doi.org/10.1016/j.seppur.2019.116334}
+  {\path{doi:10.1016/j.seppur.2019.116334}}.
+
+\bibitem{RN9}
+A.~Golmakani, S.~A. Nabavi, V.~Manovic, Effect of impurities on ultra-pure
+  hydrogen production by pressure vacuum swing adsorption, Journal of
+  Industrial and Engineering Chemistry 82 (2020) 278--289.
+\newblock \href {https://doi.org/10.1016/j.jiec.2019.10.024}
+  {\path{doi:10.1016/j.jiec.2019.10.024}}.
+
+\bibitem{RN10}
+T.~da~Silva~Veras, T.~S. Mozer, A.~da~Silva~César, Hydrogen: trends,
+  production and characterization of the main process worldwide, International
+  journal of hydrogen energy 42~(4) (2017) 2018--2033.
+
+\bibitem{RN11}
+I.~B.~R. Nogueira, M.~A.~F. Martins, M.~J. Regufe, A.~E. Rodrigues, J.~M.
+  Loureiro, A.~M. Ribeiro, Big data-based optimization of a pressure swing
+  adsorption unit for syngas purification: On mapping uncertainties from a
+  metaheuristic technique, Industrial \& Engineering Chemistry Research (2020).
+\newblock \href {https://doi.org/10.1021/acs.iecr.0c01155}
+  {\path{doi:10.1021/acs.iecr.0c01155}}.
+
+\bibitem{RN12}
+J.~Andersson, J.~Lundgren, Techno-economic analysis of ammonia production via
+  integrated biomass gasification, Applied Energy 130 (2014) 484--490.
+\newblock \href {https://doi.org/10.1016/j.apenergy.2014.02.029}
+  {\path{doi:10.1016/j.apenergy.2014.02.029}}.
+
+\bibitem{RN13}
+Z.~W. Liao, Y.~Zhang, G.~Rong, Y.~R. Yang, Improving refinery profits via fine
+  management of hydrogen networks, China Petroleum Processing \& Petrochemical
+  Technology 12~(2) (2010) 57--62.
+
+\bibitem{RN14}
+P.~Nikolaidis, A.~Poullikkas, A comparative overview of hydrogen production
+  processes, Renewable and Sustainable Energy Reviews 67 (2017) 597--611.
+\newblock \href {https://doi.org/10.1016/j.rser.2016.09.044}
+  {\path{doi:10.1016/j.rser.2016.09.044}}.
+
+\bibitem{RN15}
+X.~Zhu, Y.~Shi, S.~Li, N.~Cai, Two-train elevated-temperature pressure swing
+  adsorption for high-purity hydrogen production, Applied Energy 229 (2018)
+  1061--1071.
+\newblock \href {https://doi.org/10.1016/j.apenergy.2018.08.093}
+  {\path{doi:10.1016/j.apenergy.2018.08.093}}.
+
+\bibitem{RN16}
+S.~Sircar, Pressure swing adsorption, Industrial \& engineering chemistry
+  research 41~(6) (2002) 1389--1392.
+
+\bibitem{RN17}
+S.~Sircar, T.~Golden, Purification of hydrogen by pressure swing adsorption,
+  Separation Science and Technology 35~(5) (2000) 667--687.
+
+\bibitem{RN18}
+D.~Nikolic, A.~Giovanoglou, M.~C. Georgiadis, E.~S. Kikkinides, Generic
+  modeling framework for gas separations using multibed pressure swing
+  adsorption processes, Industrial \& Engineering Chemistry Research 47~(9)
+  (2008) 3156--3169.
+\newblock \href {https://doi.org/10.1021/ie0712582}
+  {\path{doi:10.1021/ie0712582}}.
+
+\bibitem{RN19}
+J.~S. Xiao, C.~L. Li, L.~Fang, P.~Bower, M.~Wark, P.~Benard, R.~Chahine,
+  Machine learning-based optimization for hydrogen purification performance of
+  layered bed pressure swing adsorption, International Journal of Energy
+  Research 44~(6) (2020) 18.
+\newblock \href {https://doi.org/10.1002/er.5225} {\path{doi:10.1002/er.5225}}.
+
+\bibitem{RN20}
+B.~J. He, J.~L. Liu, Y.~Zhang, S.~Z. Zhang, P.~Wang, H.~Xu, Comparison of
+  structured activated carbon and traditional adsorbents for purification of
+  h-2, Separation and Purification Technology 239 (2020) 9.
+\newblock \href {https://doi.org/10.1016/j.seppur.2020.116529}
+  {\path{doi:10.1016/j.seppur.2020.116529}}.
+
+\bibitem{RN21}
+H.~R. Li, Z.~W. Liao, J.~Y. Sun, B.~B. Jiang, J.~D. Wang, Y.~R. Yang, Modelling
+  and simulation of two-bed psa process for separating h-2 from methane steam
+  reforming, Chinese Journal of Chemical Engineering 27~(8) (2019) 1870--1878.
+\newblock \href {https://doi.org/10.1016/j.cjche.2018.11.022}
+  {\path{doi:10.1016/j.cjche.2018.11.022}}.
+
+\bibitem{RN22}
+X.~Zhu, S.~Li, Y.~Shi, N.~Cai, Recent advances in elevated-temperature pressure
+  swing adsorption for carbon capture and hydrogen production, Progress in
+  Energy and Combustion Science 75 (2019).
+\newblock \href {https://doi.org/10.1016/j.pecs.2019.100784}
+  {\path{doi:10.1016/j.pecs.2019.100784}}.
+
+\bibitem{RN23}
+C.~Yin, W.~Sun, H.~Yang, D.~Zhang, Optimization of three-bed vpsa system for
+  biogas upgrading, Chemical Engineering Science 135 (2015) 100--108.
+\newblock \href {https://doi.org/10.1016/j.ces.2015.06.022}
+  {\path{doi:10.1016/j.ces.2015.06.022}}.
+
+\bibitem{RN24}
+D.-K. Moon, Y.~Park, S.-H. Kim, M.~Oh, C.-H. Lee, Analysis of thermal parameter
+  effects on an adsorption bed for purification and bulk separation, Separation
+  and Purification Technology 181 (2017) 95--106.
+\newblock \href {https://doi.org/10.1016/j.seppur.2017.03.015}
+  {\path{doi:10.1016/j.seppur.2017.03.015}}.
+
+\bibitem{RN25}
+G.~Hüllen, J.~Zhai, S.~H. Kim, A.~Sinha, M.~J. Realff, F.~Boukouvala, Managing
+  uncertainty in data-driven simulation-based optimization, Computers \&
+  Chemical Engineering 136 (2020).
+\newblock \href {https://doi.org/10.1016/j.compchemeng.2019.106519}
+  {\path{doi:10.1016/j.compchemeng.2019.106519}}.
+
+\bibitem{RN26}
+J.~P. Eason, L.~T. Biegler, A trust region filter method for glass box/black
+  box optimization, AIChE Journal 62~(9) (2016) 3124--3136.
+\newblock \href {https://doi.org/10.1002/aic.15325}
+  {\path{doi:10.1002/aic.15325}}.
+
+\bibitem{RN27}
+S.~Amaran, N.~V. Sahinidis, B.~Sharda, S.~J. Bury, Simulation optimization: a
+  review of algorithms and applications, Annals of Operations Research 240~(1)
+  (2016) 351--380.
+\newblock \href {https://doi.org/10.1007/s10479-015-2019-x}
+  {\path{doi:10.1007/s10479-015-2019-x}}.
+
+\bibitem{RN28}
+W.~Sun, Y.~Shen, D.~Zhang, H.~Yang, H.~Ma, A systematic simulation and proposed
+  optimization of the pressure swing adsorption process for n2/ch4 separation
+  under external disturbances, Industrial \& Engineering Chemistry Research
+  54~(30) (2015) 7489--7501.
+
+\bibitem{RN29}
+S.~G. Subraveti, Z.~Li, V.~Prasad, A.~Rajendran, Machine learning-based
+  multiobjective optimization of pressure swing adsorption, Industrial \&
+  Engineering Chemistry Research 58~(44) (2019) 20412--20422.
+\newblock \href {https://doi.org/10.1021/acs.iecr.9b04173}
+  {\path{doi:10.1021/acs.iecr.9b04173}}.
+
+\bibitem{RN30}
+J.~Beck, D.~Friedrich, S.~Brandani, S.~Guillas, E.~S. Fraga, Surrogate based
+  optimisation for design of pressure swing adsorption systems, Vol.~30,
+  Elsevier, 2012, pp. 1217--1221.
+
+\bibitem{RN31}
+M.~F. Hasan, R.~C. Baliban, J.~A. Elia, C.~A. Floudas, Modeling, simulation,
+  and optimization of postcombustion co2 capture for variable feed
+  concentration and flow rate. 2. pressure swing adsorption and vacuum swing
+  adsorption processes, Industrial \& engineering chemistry research 51~(48)
+  (2012) 15665--15682.
+
+\bibitem{RN32}
+J.~Beck, D.~Friedrich, S.~Brandani, E.~S. Fraga, Multi-objective optimisation
+  using surrogate models for the design of vpsa systems, Computers \& Chemical
+  Engineering 82 (2015) 318--329.
+\newblock \href {https://doi.org/10.1016/j.compchemeng.2015.07.009}
+  {\path{doi:10.1016/j.compchemeng.2015.07.009}}.
+
+\bibitem{RN33}
+A.~Agarwal, L.~T. Biegler, S.~E. Zitney, Simulation and optimization of
+  pressure swing adsorption systems using reduced-order modeling, Industrial \&
+  Engineering Chemistry Research 48~(5) (2009) 2327--2343.
+
+\bibitem{RN34}
+K.~N. Pai, V.~Prasad, A.~Rajendran, Experimentally validated machine learning
+  frameworks for accelerated prediction of cyclic steady state and optimization
+  of pressure swing adsorption processes, Separation and Purification
+  Technology 241 (2020).
+\newblock \href {https://doi.org/10.1016/j.seppur.2020.116651}
+  {\path{doi:10.1016/j.seppur.2020.116651}}.
+
+\bibitem{RN35}
+N.~D. Vo, D.~H. Oh, J.-H. Kang, M.~Oh, C.-H. Lee, Dynamic-model-based
+  artificial neural network for h2 recovery and co2 capture from hydrogen tail
+  gas, Applied Energy 273 (2020).
+\newblock \href {https://doi.org/10.1016/j.apenergy.2020.115263}
+  {\path{doi:10.1016/j.apenergy.2020.115263}}.
+
+\bibitem{RN36}
+T.~Hastie, R.~Tibshirani, J.~Friedman, The elements of statistical learning:
+  data mining, inference, and prediction, Springer Science \& Business Media,
+  2009.
+
+\bibitem{RN37}
+ (2020).
+
+\bibitem{RN38}
+S.~Ma, L.~Tong, F.~Ye, J.~Xiao, P.~Bénard, R.~Chahine, Hydrogen purification
+  layered bed optimization based on artificial neural network prediction of
+  breakthrough curves, International Journal of Hydrogen Energy 44~(11) (2019)
+  5324--5333.
+\newblock \href {https://doi.org/10.1016/j.ijhydene.2018.12.142}
+  {\path{doi:10.1016/j.ijhydene.2018.12.142}}.
+
+\bibitem{RN39}
+H.~R. Sant~Anna, A.~G. Barreto, F.~W. Tavares, M.~B. de~Souza, Machine learning
+  model and optimization of a psa unit for methane-nitrogen separation,
+  Computers \& Chemical Engineering 104 (2017) 377--391.
+\newblock \href {https://doi.org/10.1016/j.compchemeng.2017.05.006}
+  {\path{doi:10.1016/j.compchemeng.2017.05.006}}.
+
+\bibitem{RN40}
+K.~Hornik, Approximation capabilities of multilayer feedforward networks,
+  Neural networks 4~(2) (1991) 251--257.
+
+\bibitem{RN41}
+P.~Cruz, F.~Magalhaes, A.~Mendes, On the optimization of cyclic adsorption
+  separation processes, AIChE journal 51~(5) (2005) 1377--1395.
+
+\bibitem{RN42}
+E.~L. First, M.~F. Hasan, C.~A. Floudas, Discovery of novel zeolites for
+  natural gas purification through combined material screening and process
+  optimization, AIChE Journal 60~(5) (2014) 1767--1785.
+
+\bibitem{RN43}
+P.~Vasant, Meta-heuristics optimization algorithms in engineering, business,
+  economics, and finance, Information Science Reference, 2013.
+
+\bibitem{RN44}
+F.~Ye, S.~Ma, L.~Tong, J.~Xiao, P.~Bénard, R.~Chahine, Artificial neural
+  network based optimization for hydrogen purification performance of pressure
+  swing adsorption, International Journal of Hydrogen Energy 44~(11) (2019)
+  5334--5344.
+\newblock \href {https://doi.org/10.1016/j.ijhydene.2018.08.104}
+  {\path{doi:10.1016/j.ijhydene.2018.08.104}}.
+
+\bibitem{RN45}
+ (1989).
+
+\bibitem{RN46}
+R.~Haghpanah, A.~Majumder, R.~Nilam, A.~Rajendran, S.~Farooq, I.~A. Karimi,
+  M.~Amanullah, Multiobjective optimization of a four-step adsorption process
+  for postcombustion co2 capture via finite volume simulation, Industrial \&
+  Engineering Chemistry Research 52~(11) (2013) 4249--4265.
+\newblock \href {https://doi.org/10.1021/ie302658y}
+  {\path{doi:10.1021/ie302658y}}.
+
+\bibitem{RN47}
+G.~Fiandaca, E.~S. Fraga, S.~Brandani, A multi-objective genetic algorithm for
+  the design of pressure swing adsorption, Engineering Optimization 41~(9)
+  (2009) 833--854.
+\newblock \href {https://doi.org/10.1080/03052150903074189}
+  {\path{doi:10.1080/03052150903074189}}.
+
+\bibitem{RN48}
+S.~Mohammad, J.~Fitzgerald, R.~L. Robinson, K.~A.~M. Gasem, Experimental
+  uncertainties in volumetric methods for measuring equilibrium adsorption,
+  Energy \& Fuels 23~(5-6) (2009) 2810--2820.
+\newblock \href {https://doi.org/10.1021/ef8011257}
+  {\path{doi:10.1021/ef8011257}}.
+
+\bibitem{RN49}
+C.~Long, J.~Guan, Measurement of diffusivity and thermal parameters of gas
+  adsorption with a volumetric method, Industrial \& Engineering Chemistry
+  Research 51~(18) (2012) 6502--6512.
+\newblock \href {https://doi.org/10.1021/ie202184d}
+  {\path{doi:10.1021/ie202184d}}.
+
+\bibitem{RN50}
+T.~Wu, Y.~Shen, L.~Feng, Z.~Tang, D.~Zhang, Adsorption properties of n2o on
+  zeolite 5a, 13x, activated carbon, zsm-5, and silica gel, Journal of Chemical
+  \& Engineering Data 64~(8) (2019) 3473--3482.
+\newblock \href {https://doi.org/10.1021/acs.jced.9b00272}
+  {\path{doi:10.1021/acs.jced.9b00272}}.
+
+\bibitem{RN51}
+M.~D. Mckay, R.~J. B.~J. Conover, A comparison of three methods for selecting
+  values of input variables in the analysis of output from a computer code,
+  Technometrics 21~(2) (1979) 239--245.
+
+\bibitem{RN52}
+Z.~Zhou, Machine Learning, Tsinghua University Press, 2016.
+
+\bibitem{RN53}
+ (2016).
+
+\bibitem{RN54}
+E.~T. Spiller, M.~J. Bayarri, J.~O. Berger, E.~S. Calder, A.~K. Patra, E.~B.
+  Pitman, R.~L. Wolpert, Automating emulator construction for geophysical
+  hazard maps, SIAM/ASA Journal on Uncertainty Quantification 2~(1) (2014)
+  126--152.
+
+\bibitem{RN55}
+F.~Capra, M.~Gazzani, L.~Joss, M.~Mazzotti, E.~Martelli, Mo-mcs, a
+  derivative-free algorithm for the multiobjective optimization of adsorption
+  processes, Industrial \& Engineering Chemistry Research (2018)
+  acs.iecr.8b00207.
+
+\bibitem{RN56}
+K.~Deb, Multi-objective optimization using evolutionary algorithms, Vol.~16,
+  John Wiley \& Sons, 2001.
+
+\bibitem{RN57}
+Global Optimization Toolbox Documentation, Vol. Matlab R2020a, MathWorks,
+  Archived MathWorks Documentation., 2020.
+
+\bibitem{RN58}
+S.~Ahn, Y.-W. You, D.-G. Lee, K.-H. Kim, M.~Oh, C.-H. Lee, Layered two- and
+  four-bed psa processes for h-2 recovery from coal gas, Chemical Engineering
+  Science 68~(1) (2012) 413--423.
+\newblock \href {https://doi.org/10.1016/j.ces.2011.09.053}
+  {\path{doi:10.1016/j.ces.2011.09.053}}.
+
+\end{thebibliography}
